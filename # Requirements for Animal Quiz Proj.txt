@@ -1,0 +1,2 @@
+# Requirements for Animal Quiz Project
+# This project uses only Python standard library
